@@ -1,3 +1,4 @@
+/// partner 1 = Quentin | partner 2 = Merrick | partner 3 = Ayaan 
 package tetris; 
 
 import java.awt.Color;

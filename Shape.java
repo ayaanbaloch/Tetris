@@ -1,3 +1,5 @@
+/// partner 3 = Ayaan | partner 2 = Merrick | partner 1 = Quentin 
+
 package tetris; 
 
 import java.util.Random;
